@@ -6,6 +6,10 @@
 # dotenv files
 .env
 
+# Personal notes and journals (private, not part of submission)
+NOTES.md
+JOURNAL.md
+
 # User-specific files
 *.rsuser
 *.suo
